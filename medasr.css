@@ -1,0 +1,271 @@
+@media screen and (max-width: 575px)
+{   
+    .mar{
+        margin-top: 110px !important;
+        word-spacing: 5px;
+        letter-spacing: 5px;
+        font-size: 16px;
+        /* background-color: rgb(26, 42, 42); */
+      }
+      .mar1{
+        width: 350px !important;
+        margin-top: 180px !important; 
+        font-size: 50px !important;
+        background-color: rgb(255, 255, 255) !important;
+        position: absolute;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .mar2{
+        margin-top: 175px !important;
+        font-size: 15px;
+        color: rgb(138, 129, 129);
+        word-spacing: 2px;
+        letter-spacing: 2px;
+        
+    }
+    .mar3{
+        margin-top: 60px !important;  
+        margin-left: 30px !important;
+        word-spacing: 5px;
+        letter-spacing: 5px;
+        /* text-align: center; */
+        /* background-color: rgb(26, 42, 42); */
+      }
+    .mar5{
+        margin-top: 5px !important; 
+        font-size: 30px !important;
+        margin-left: 35px;
+        font-family: 'Times New Roman', Times, serif;
+        margin-bottom: 50px;    /* background-color: rgb(26, 42, 42); */
+    }
+    .mar7{
+        margin-top: 10px;
+        font-size: 30px !important;
+        background-color: rgb(255, 255, 255) !important;
+        /* position: absolute; */
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .mar8{
+        margin-top: 5px;
+        margin-left: 1px;
+        font-size: 10px;
+        color: rgb(138, 129, 129);
+        word-spacing: 2px;
+        letter-spacing: 2px;
+        /* font-weight: 400; */
+        /* background-color: aqua; */
+        width: 100%;
+    }
+    .c1{
+        margin-top: 10px;
+    }
+    .c2{
+        margin-top: 10px;
+    }
+    .c3{
+        margin-top: 10px;
+    }
+    .mar14 {
+        font-size: 40px !important;
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif
+    }
+}
+
+@media screen and (min-width: 576px) and (max-width: 767px)
+{
+    .mar{
+        margin-top: 100px !important;
+        word-spacing: 5px;
+        letter-spacing: 5px;
+        font-size: 20px;
+        /* background-color: rgb(26, 42, 42); */
+      }
+      .mar1{
+        width: 550px !important;
+        margin-top: 180px !important; 
+        font-size: 80px !important;
+        background-color: rgb(255, 255, 255) !important;
+        position: absolute;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .mar2{
+        margin-top: 250px !important;
+        font-size: 18px;
+        color: rgb(138, 129, 129);
+        word-spacing: 2px;
+        letter-spacing: 2px;
+    }
+    .mar6{
+        /* margin-left: 0px !important; */
+        margin-top: 60px !important; 
+        word-spacing: 5px;
+        letter-spacing: 5px;
+        /* background-color: rgb(26, 42, 42); */
+    }
+    .mar7{
+        margin-top: 10px;
+        font-size: 30px !important;
+        background-color: rgb(255, 255, 255) !important;
+        /* position: absolute; */
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .mar8{
+        margin-top: 5px;
+        margin-left: 1px;
+        font-size: 10px;
+        color: rgb(138, 129, 129);
+        word-spacing: 2px;
+        letter-spacing: 2px;
+        /* font-weight: 400; */
+        /* background-color: aqua; */
+        width: 100%;
+    }
+    .owl-theme .owl-dots .owl-dot .active{
+        border-radius: 0;
+        /* background-color: black; */
+        color: black;
+        outline: solid 1px rgb(0, 0, 0);
+        height: 10px;
+        width: 50px;
+        margin: 5px;
+    }
+    .owl-theme .owl-dots{
+        display: block;
+    }   
+    .c1{
+        margin-top: 10px;
+    }
+    .c2{
+        margin-top: 10px;
+    }
+    .c3{
+        margin-top: 10px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px)
+{
+    .mar{
+        margin-top: 120px;
+        word-spacing: 5px;
+        letter-spacing: 5px;
+        /* background-color: rgb(26, 42, 42); */
+        font-size: 15px;
+      }
+      .mar1{
+        width: 550px !important;
+        margin-top: 180px !important; 
+        font-size: 80px !important;
+        background-color: rgb(255, 255, 255) !important;
+        position: absolute;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .mar2{
+        margin-top: 270px !important;
+        font-size: 13px;
+        color: rgb(138, 129, 129);
+        word-spacing: 2px;
+        letter-spacing: 2px;
+        /* background-color: antiquewhite; */
+    }
+    .mar6{
+        /* margin-left: 0px !important; */
+        margin-top: 60px !important; 
+        word-spacing: 5px;
+        letter-spacing: 5px;
+        /* background-color: rgb(26, 42, 42); */
+    }
+    .mar7{
+        margin-top: 10px;
+        font-size: 30px !important;
+        background-color: rgb(255, 255, 255) !important;
+        /* position: absolute; */
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .mar8{
+        margin-top: 5px;
+        margin-left: 1px;
+        font-size: 13px;
+        color: rgb(138, 129, 129);
+        word-spacing: 2px;
+        letter-spacing: 2px;
+        /* font-weight: 400; */
+        /* background-color: aqua; */
+        width: 100%;
+    }
+    .owl-theme .owl-dots .owl-dot .active{
+        border-radius: 0;
+        /* background-color: black; */
+        color: black;
+        outline: solid 1px rgb(0, 0, 0);
+        height: 10px;
+        width: 50px;
+        margin: 5px;
+    }
+    .owl-theme .owl-dots{
+        display: block;
+    }   
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px)
+{
+    .mar{
+        margin-top: 130px;
+        word-spacing: 5px;
+        letter-spacing: 5px;
+        /* background-color: rgb(26, 42, 42); */
+      }
+      .mar1{
+        width: 550px !important;
+        margin-top: 180px !important; 
+        font-size: 80px !important;
+        background-color: rgb(255, 255, 255) !important;
+        position: absolute;
+        font-family: 'Times New Roman', Times, serif;
+    }
+    .mar2{
+        margin-top: 250px !important;
+        font-size: 15px;
+        color: rgb(138, 129, 129);
+        word-spacing: 2px;
+        letter-spacing: 2px;
+    }
+    .mar7{
+        margin-top: 10px;
+        font-size: 50px !important;
+        background-color: rgb(255, 255, 255) !important;
+        /* position: absolute; */
+        font-family: 'Times New Roman', Times, serif;
+        background-color: black;
+      
+    }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1600px)
+{
+    .mar{
+        margin-top: 130px;
+        /* margin-left: 100px; */
+        word-spacing: 5px;
+        letter-spacing: 5px;
+        /* background-color: rgb(26, 42, 42); */
+      }
+      .mar1{
+        width: 750px !important;
+        margin-top: 180px !important; 
+        font-size: 110px !important;
+        background-color: rgb(255, 255, 255) !important;
+        position: absolute;
+        font-family: 'Times New Roman', Times, serif;
+        /* opacity: 0.8; */
+    }
+    .mar2{
+        margin-top: 30px;
+        font-size: 18px;
+        color: rgb(138, 129, 129);
+        word-spacing: 2px;
+        letter-spacing: 2px;
+        
+    }
+}

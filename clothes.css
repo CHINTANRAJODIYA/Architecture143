@@ -1,0 +1,435 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.b {
+    height: 83px;
+}
+
+.navbar-collapse {
+    /* flex-basis: 0% !important; */
+    flex-grow: 0 !important;
+    /* align-items: center; */
+}
+
+.pad {
+    padding: 20px;
+}
+
+c {
+    padding: 150px 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.dropdown-menu.show {
+    display: block;
+    border-radius: 0px;
+    border: 0px;
+    background-color: #fafafa;
+    border-radius: 2px;
+    box-shadow: 0px 10px 30px -15px rgb(97, 94, 94);
+}
+
+.dropdown-itemm {
+    display: block;
+    width: 100%;
+    padding: var(--bs-dropdown-item-padding-y) var(--bs-dropdown-item-padding-x);
+    clear: both;
+    font-weight: 400;
+    color: rgb(77, 77, 77);
+    text-align: inherit;
+    text-decoration: none;
+    white-space: nowrap;
+    background-color: transparent;
+    border: 0;
+    border-radius: var(--bs-dropdown-item-border-radius, 0);
+    width: 200px;
+}
+
+.dropdown-menu a {
+    margin: 10px;
+}
+
+.bg-body-tertiary {
+    box-shadow: 0px 1px 20px 1px rgb(97, 94, 94);
+}
+
+.mar {
+    margin-top: 130px !important;
+    word-spacing: 5px;
+    letter-spacing: 5px;
+    /* background-color: rgb(26, 42, 42); */
+}
+
+.mar1 {
+    width: 750px !important;
+    margin-top: 180px !important;
+    margin-left: 0px !important;
+    padding-left: 25px;
+    font-size: 110px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.mar2 {
+    margin-top: 350px !important;
+    font-size: 18px;
+    color: rgb(138, 129, 129);
+    word-spacing: 2px;
+    letter-spacing: 2px;
+    /* position: absolute; */
+    /* background-color:aqua; */
+}
+
+.btnn {
+    margin-top: 30px;
+    border: solid black 1px;
+    /* background-color: black; */
+    height: 55px;
+    width: 110px;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    letter-spacing: 2px;
+    font-weight: 600;
+    transition: all ease-in-out 0.3s;
+}
+
+.btnn:hover {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    width: 115px;
+}
+
+.mar3 {
+    margin-top: 60px !important;
+    margin-left: 80px !important;
+    word-spacing: 5px;
+    letter-spacing: 5px;
+    /* background-color: rgb(26, 42, 42); */
+}
+
+.mar5 {
+    margin-top: 5px !important;
+    font-size: 60px !important;
+    margin-left: 90px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 50px;
+    /* background-color: rgb(26, 42, 42); */
+}
+
+.card {
+    float: left;
+    margin-top: 50px !important;
+    /* margin: 30px; */
+    border: none !important;
+    width: 100%;
+    /* transform: rotateY(180deg); */
+    transition: all ease-in-out 0.9s;
+    height: 100%;
+    /* background-color:black */
+}
+
+.card-title {
+    /* margin-top: 100px; */
+    text-align: center;
+    font-size: 200% !important;
+    font-family: 'Times New Roman', Times, serif;
+    /* background-color: aqua; */
+    /* height: 700px; */
+}
+
+.c1 {
+    margin-top: 1px;
+}
+
+.c2 {
+    margin-top: 50px;
+}
+
+.c3 {
+    margin-top: 100px;
+}
+
+.card:hover {
+    transition: all ease-in-out 0.9s;
+    transform: rotateY(180deg) !important;
+    box-shadow: 1px 1px 20px rgb(178, 171, 171);
+}
+
+.space {
+    height: 70px;
+}
+
+.mar6 {
+    /* margin-left: 0px !important; */
+    margin-top: 60px !important;
+    word-spacing: 5px;
+    letter-spacing: 5px;
+    /* background-color: rgb(26, 42, 42); */
+}
+
+.mar7 {
+    margin-top: 10px;
+    font-size: 60px !important;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.mar8 {
+    /* margin-left: 80px !important; */
+    font-size: 15px;
+    color: rgb(138, 129, 129);
+    word-spacing: 2px;
+    letter-spacing: 2px;
+    /* font-weight: 400; */
+    /* background-color: aqua; */
+    /* position: absolute; */
+}
+
+/* .owl-carousel {
+    margin-top: 100px !important;
+} */
+
+.ma {
+    margin-top: 30px !important;
+}
+
+.mar9 {
+    margin-top: 30px !important;
+    font-size: 150% !important;
+}
+
+.owl-theme .owl-nav {
+    display: none;
+}
+
+.owl-theme .owl-dots {
+    display: NONE;
+}
+
+.hov {
+    position: relative;
+    overflow: hidden;
+
+}
+
+.hov img {
+    transform: scale(1.5);
+    transition: all ease-in-out 0.4s;
+}
+
+.hov img:hover {
+    transform: scale(1.5) translateX(-2%);
+    transition: all ease-in-out 0.4s;
+}
+
+.space1 {
+    height: 180px;
+    /* background-color: black !important; */
+}
+
+.space2 {
+    height: 70px;
+    /* background-color: black; */
+}
+
+.mar10 {
+    margin-top: 30px !important;
+    /* margin-left: 130px !important; */
+    word-spacing: 5px;
+    padding: 0px !important;
+    letter-spacing: 5px;
+    background-color: black;
+    /* background-color: rgb(26, 42, 42); */
+}
+
+.mar11 {
+    font-size: 76px !important;
+    height: 215px;
+    padding: 0px !important;
+    background-color: black !important;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.box {
+    /* margin-top: 1px; */
+    height: 20px;
+    /* width: 100px; */
+    border-top: solid 5px orange;
+    /* background-color:rgb(224, 77, 77); */
+}
+
+.box1 {
+    height: 80px;
+    /* background-color: black; */
+}
+
+.mar12 {
+    margin-top: 30px !important;
+    /* margin-left: 130px !important; */
+    font-size: 15px;
+    color: white;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+    /* position: absolute; */
+    background-color: black;
+}
+
+.btnn1 {
+    margin-top: 30px;
+    /* margin-left: 130px; */
+    border: solid rgb(255, 255, 255) 1px;
+    background-color: black;
+    height: 55px;
+    width: 110px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    letter-spacing: 2px;
+    font-weight: 600;
+    transition: all ease-in-out 0.3s;
+}
+
+.btnn1:hover {
+    background-color: rgb(69, 66, 66);
+    color: white;
+    font-size: 20px;
+    width: 115px;
+}
+
+.box2 {
+    height: 130px;
+    /* background-color: black; */
+}
+
+.mar13 {
+    margin-top: 30px !important;
+    text-align: center;
+    word-spacing: 5px;
+    letter-spacing: 5px;
+    /* background-color: rgb(26, 42, 42); */
+}
+
+.mar14 {
+    font-size: 76px !important;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.box3 {
+    height: 20px;
+    border-top: solid orange 5px;
+    /* background-color: aqua; */
+}
+
+.mar15 {
+    margin-top: 13px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.mar16 {
+    /* margin-top: px; */
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500px !important;
+    text-shadow: 0px 0px 1px rgb(207, 159, 53);
+}
+
+.hov1 {
+    position: relative;
+    overflow: hidden;
+    background: rgba(0, 0, 0, 1);
+}
+
+.hov1 img {
+    /* overflow: hidden; */
+    transition: all ease-in-out 0.4s;
+}
+
+.hov1 img:hover {
+    transform: scale(1.2);
+    opacity: 0.5;
+    /* background: black; */
+    transition: all ease-in-out 0.4s;
+}
+
+.middle {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.hov1:hover .middle {
+    opacity: 1;
+    color: white;
+}
+
+.pngbg {
+    height: 50px;
+    background-color: black;
+}
+.pngbg1 {
+    height: 150px;
+    background-color: black;
+}
+.slid1{
+    filter: brightness(0.5);
+    transition: all ease-in-out 0.2s;
+}
+.slid1:hover{
+    filter: brightness(1);
+}
+.mar17{
+    font-size: 70px;
+    /* font-family: 'Times New Roman', Times, serif; */
+    text-align: center;
+    padding-top: 70px;
+}
+.mar18{
+    font-size: 20px;
+    /* font-family: 'Times New Roman', Times, serif; */
+    text-align: center;
+    padding-bottom: 70px;
+}
+.mar19{
+    font-family: 'Times New Roman', Times, serif !important;
+}
+.mar20{
+    padding: 10px;
+    padding-left: 0px;
+    color: rgb(138, 129, 129);
+    font-size: 17px;
+}
+b1{
+    font-weight: bold;
+}
+input[type=text] {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #000000;
+}
+b2{
+    cursor: pointer;
+    transition: all ease-in-out 0.3s;
+}
+b2:hover{
+    color: orange;
+}
+.fa-brands{
+    cursor: pointer;
+    transition: all ease-in-out 0.3s;
+}
+.fa-brands:hover{
+    color: orange;
+}
